@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy-3d-engine", "easy-3d-engine.vcxproj", "{90FA0E8D-47B4-4DFB-8BF5-C56D38C211CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FA0E8D-47B4-4DFB-8BF5-C56D38C211CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{90FA0E8D-47B4-4DFB-8BF5-C56D38C211CF}.Debug|x86.Build.0 = Debug|Win32
+		{90FA0E8D-47B4-4DFB-8BF5-C56D38C211CF}.Release|x86.ActiveCfg = Release|Win32
+		{90FA0E8D-47B4-4DFB-8BF5-C56D38C211CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1F4649-D3D2-4392-B2DD-56570E8F3044}
+	EndGlobalSection
+EndGlobal
